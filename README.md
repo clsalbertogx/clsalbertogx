@@ -2,7 +2,7 @@
 
 ### Tecnologias
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg' />
+<img align="center" alt="nodejs" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg' />
 
 
 ### Tecnologias
